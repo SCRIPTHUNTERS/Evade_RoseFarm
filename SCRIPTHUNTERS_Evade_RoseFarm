@@ -1,6 +1,8 @@
 -- getgenv().farm = true -- false/true
 
--- Made By: SCRIPTHUNTERS
+-- Made By: SCRIPTHUNTERS [ RoKanchik_YT ]
+print("Made by RoKanchik_YT - SCRIPTHUNTERS TEAM")
+
 local Players = game:GetService("Players")
 local VirtualUser = game:GetService("VirtualUser")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
